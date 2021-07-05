@@ -1,0 +1,65 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+h1 {
+    font-weight:750;
+}
+
+.pink {
+    color:rgb(252, 70, 100);
+}
+.first-section {
+    display: flex;
+    background-image: url(frame-orange.png);
+    background-position: right;
+    background-size: cover;
+    height: 470px;
+    width: 100%;
+}
+.second-section {
+    display: flex;
+    background-image: url(Frame.jpg) ;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+   padding-top: 5%;
+}
+.third-section {
+    display: flex;
+    
+    
+}
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+.anchor {
+    color: white;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.divine {
+    padding: 2%;
+    margin: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    
+}
+.text-align {
+    text-align: center;
+}
+.footer {
+    color: white;
+    background-color: rgb(255, 74, 104);
+    padding: 20px;
+   margin: 0;
+}
+.follower {
+    text-align: center;
+    padding: 0 8%;
+    
+}
